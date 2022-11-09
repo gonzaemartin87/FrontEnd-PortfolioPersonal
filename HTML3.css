@@ -5,17 +5,17 @@ body {
     position: relative;
     padding-bottom: 2em;
     min-height: 100vh;
+    font-family: monospace;
 }
 h1 {
   background: black;
   color: white;
-
+  font-family: monospace;
   }
-  h3 {
+    h3 {
   background: black;
   color: white;
-  
-  
+  font-family: monospace;  
   }
 footer {
   color: white;
@@ -24,10 +24,12 @@ footer {
     position: absolute;
     bottom: 0;
     width: 100%;
+    font-family: monospace;
     }
 nav{
   text-shadow: 2px 2px 2px rgb(80, 75, 75)
   border: solid 3px;
+  font-family: monospace;
   }
   p{
     background: black;
@@ -36,4 +38,5 @@ nav{
     margin-bottom: 15% ;
     margin-left: 10% ;
     margin-right: 10% ;
+    font-family: monospace;
   }
