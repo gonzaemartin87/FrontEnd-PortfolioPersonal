@@ -6,17 +6,17 @@ body {
     padding-bottom: 2em;
     min-height: 100vh;
     font-family: monospace;
-}
+    }
 h1 {
   background: black;
   color: white;
   font-family: monospace;
-  }
-    h3 {
+    }
+h3 {
   background: black;
   color: white;
   font-family: monospace;  
-  }
+    }
 footer {
   color: white;
     padding: 6em 0;
@@ -39,4 +39,4 @@ nav{
     margin-left: 10% ;
     margin-right: 10% ;
     font-family: monospace;
-  }
+   }
